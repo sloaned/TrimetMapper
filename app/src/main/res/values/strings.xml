@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrimetMapper</string>
+
+    <string name="destination_prompt">Enter your destination</string>
+</resources>
